@@ -54,7 +54,6 @@ An adaptive AI-powered learning system that transforms study materials into pers
 - Spaced repetition scheduler (like Anki)
 - Voice-based learning assistant
 - Multi-language support
-- Exam simulation mode
 
 ---
 
